@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "HuaDeity's Blog"
+theme = 'paper'
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  # twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
+  github = 'HuaDeity'                 # github.com/YOUR_GITHUB_ID
+  # instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
+  # linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  mastodon = 'https://mastodon.social/@HuaDeity'           # e.g. 'https://mastodon.instance/@xxx'
+  rss = true                                # show rss icon
+
+  # home page profile
+  avatar = 'hello@huadeity.com'                 # gravatar email or image url
+  name = 'HuaDeity'
+  bio = '🌈'
+
+
+  # misc
+  disableHLJS = false                        # disable highlight.js
+  disablePostNavigation = false              # disable post navigation
+  monoDarkIcon = false                       # show monochrome dark mode icon
+  gravatarCdn = 'https://cdn.v2ex.com/gravatar/'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  # graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+  math = true                               # enable KaTeX math typesetting globally
