@@ -1,7 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.huadeity.com/'
 languageCode = 'en-us'
 title = "HuaDeity's Blog"
 theme = 'paper'
+disqusShortname = 'huadeity'   # use disqus comments
 
 [params]
   # color style
