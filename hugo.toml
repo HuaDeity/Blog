@@ -26,6 +26,6 @@ disqusShortname = 'huadeity'   # use disqus comments
   disableHLJS = false                        # disable highlight.js
   disablePostNavigation = false              # disable post navigation
   monoDarkIcon = false                       # show monochrome dark mode icon
-  gravatarCdn = 'https://sdn.geekzu.org/avatar/'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  gravatarCdn = 'https://gravatar.loli.net/avatar/'         # e.g. 'https://cdn.v2ex.com/gravatar/'
   # graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
   math = true                               # enable KaTeX math typesetting globally
