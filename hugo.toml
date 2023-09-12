@@ -29,3 +29,7 @@ disqusShortname = 'huadeity'   # use disqus comments
   gravatarCdn = 'https://gravatar.loli.net/avatar/'         # e.g. 'https://cdn.v2ex.com/gravatar/'
   # graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
   math = true                               # enable KaTeX math typesetting globally
+
+[markup]
+  [markup.highlight]
+    noClasses = false
