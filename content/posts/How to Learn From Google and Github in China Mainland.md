@@ -24,12 +24,12 @@ Here are some recommendations:
 
 ### Cross-platform Solutions: [Clash](https://github.com/Dreamacro/clash)
 
-|        iOS/iPadOS         |                                 macOS                                 |                                Windows                                |                            Android                            |                                 Linux                                 |                       Router                        |
-| :-----------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------: |
-| [Stach](https://stash.ws) |                       [Stash](https://stash.ws)                       | [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg) | [Clash for Android](https://github.com/Kr328/ClashForAndroid) |              [Clash](https://github.com/Dreamacro/clash)              | [ShellClash](https://github.com/juewuy/ShellClash)  |
-|                           |            [clashX](https://github.com/yichengchen/clashX)            |         [Clash Verge](https://github.com/zzzgydi/clash-verge)         |                                                               | [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg) | [OpenClash](https://github.com/vernesong/OpenClash) |
-|                           | [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg) |                                                                       |                                                               |         [Clash Verge](https://github.com/zzzgydi/clash-verge)         |                                                     |
-|                           |         [Clash Verge](https://github.com/zzzgydi/clash-verge)         |                                                                       |                                                               |                                                                       |                                                     |
+|iOS/iPadOS|macOS|Windows|Android|Linux|Router|
+|-|-|-|-|-|-|
+|[Stash](https://stash.ws)|[Stash](https://stash.ws)|[Clash Verge](https://github.com/zzzgydi/clash-verge)|[Clash Multiplatform](https://t.me/+kqvN73Ap1ixhY2Q1)|[Clash](https://github.com/Dreamacro/clash)|[ShellClash](https://github.com/juewuy/ShellClash)|
+| |[clashX](https://github.com/yichengchen/clashX)|[Clash Multiplatform](https://t.me/+kqvN73Ap1ixhY2Q1)| |[Clash Verge](https://github.com/zzzgydi/clash-verge)|[OpenClash](https://github.com/vernesong/OpenClash)|
+| |[Clash Verge](https://github.com/zzzgydi/clash-verge)| | |[Clash Multiplatform](https://t.me/+kqvN73Ap1ixhY2Q1)| |
+
 
 Cross-platform with just one configuration file.
 
