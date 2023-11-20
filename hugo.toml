@@ -35,6 +35,7 @@ theme = 'paper'
   repoId = 'R_kgDOKQ8gpg' # repository ID
   category = 'Announcements' # category name
   categoryId = 'DIC_kwDOKQ8gps4CbGIv' # category ID
+  mapping = 'title'
   theme = 'preferred_color_scheme' # theme
 
 [markup]
