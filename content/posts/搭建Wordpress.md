@@ -1,5 +1,6 @@
 +++
 title = '搭建Wordpress'
+url = ‘build-wordpress’
 date = 2023-01-30T20:00:00+08:00
 draft = false
 comments = true

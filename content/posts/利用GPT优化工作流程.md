@@ -1,5 +1,6 @@
 +++
 title = '利用GPT优化工作流程'
+url = ‘how-to-use-gpt’
 date = 2023-02-20T20:00:00+08:00
 draft = false
 comments = true

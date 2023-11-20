@@ -1,5 +1,6 @@
 +++
 title = '用Zotero管理文献'
+url = ‘how-to-use-zotero’
 date = 2023-02-15T20:00:00+08:00
 draft = false
 comments = true
