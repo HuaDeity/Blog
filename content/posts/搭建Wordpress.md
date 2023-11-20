@@ -1,11 +1,11 @@
-——-
+---
 slug: build-wordpress
 title: 搭建Wordpress
 date: 2023-01-30T20:00:00+08:00
 draft: false
 comments: true
 math: true
-——-
+---
 
 ## 介绍
 
