@@ -1,11 +1,11 @@
-———
+---
 slug: how-to-use-gpt
 title: 利用GPT优化工作流程
 date: 2023-02-20T20:00:00+08:00
 draft: false
 comments: true
 math: true
-——-
+---
 
 ## 介绍
 
