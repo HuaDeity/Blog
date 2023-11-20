@@ -1,11 +1,11 @@
-+++
-title = 'Twitter被收购导致的去中心化兴起——Mastodon'
-url = ‘please-run-away-x’
-date = 2023-03-10T20:00:00+08:00
-draft = false
-comments = true
-math = true
-+++
+——-
+slug: please-away-x
+title: Twitter被收购导致的去中心化兴起——Mastodon
+date: 2023-03-10T20:00:00+08:00
+draft: false
+comments: true
+math: true
+——-
 
 ## 介绍
 

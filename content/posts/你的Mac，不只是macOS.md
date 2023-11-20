@@ -1,11 +1,11 @@
-+++
-title = '你的Mac，不只是macOS'
-url = ‘mac-canbe-more’
-date = 2023-03-17T20:00:00+08:00
-draft = false
-comments = true
-math = true
-+++
+——-
+slug: mac-can-be-more
+title: 你的Mac，不只是macOS
+date: 2023-03-17T20:00:00+08:00
+draft: false
+comments: true
+math: true
+——-
 
 ## 介绍
 
