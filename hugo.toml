@@ -2,7 +2,7 @@ baseURL = 'https://blog.huadeity.com/'
 languageCode = 'en-us'
 title = "HuaDeity's Blog"
 theme = 'paper'
-disqusShortname = 'huadeity'   # use disqus comments
+# disqusShortname = 'huadeity'   # use disqus comments
 
 [params]
   # color style
@@ -23,12 +23,19 @@ disqusShortname = 'huadeity'   # use disqus comments
 
 
   # misc
-  disableHLJS = false                        # disable highlight.js
+  disableHLJS = true                        # disable highlight.js
   disablePostNavigation = false              # disable post navigation
-  monoDarkIcon = false                       # show monochrome dark mode icon
+  monoDarkIcon = true                       # show monochrome dark mode icon
   gravatarCdn = 'https://gravatar.webp.se/avatar/'         # e.g. 'https://cdn.v2ex.com/gravatar/'
   # graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
   math = true                               # enable KaTeX math typesetting globally
+
+[params.giscus]
+  repo = 'HuaDeity/blog' # repository name
+  repoId = 'R_kgDOKQ8gpg' # repository ID
+  category = 'Announcements' # category name
+  categoryId = 'DIC_kwDOKQ8gps4CbGIv' # category ID
+  theme = 'preferred_color_scheme' # theme
 
 [markup]
   [markup.highlight]
