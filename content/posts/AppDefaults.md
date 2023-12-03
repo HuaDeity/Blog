@@ -86,7 +86,7 @@ Since [Robb](https://social.lol/@robb) post on Mastodon about this [project](htt
 
 📰 News
 + [Mastodon](https://joinmastodon.org) with [Mona](https://mastodon.social/@MonaApp)
-+ [X](https://x.com)
++ [X(Twitter)](https://x.com)
 + RSS
 + [Telegram Channels](https://telegram.org/tour/channels)
 
