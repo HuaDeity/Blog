@@ -1,7 +1,7 @@
 ---
 slug: app-defaults
 title: 'App Defaults'
-date: 2023-12-04T08:00:00+08:00
+date: 2023-12-04T03:00:00+08:00
 draft: false
 comments: true
 math: true
@@ -106,6 +106,6 @@ I will add more categories in the future in this post or other ones.
 Do you have your defaults? Please don’t hesitate to share your list with [others](https://github.com/rknightuk/app-defaults)!
 
 ---
-Annotations: 0,3757 SHA-256 7ec94c58557880673451a732822e6ac7  
+Annotations: 0,3757 SHA-256 cefeef483b0f5183c5d2ca2a67e2af01  
 @HuaDeity <hello@huadeity.com>: 0,134 158,40 225,58 328,27 356,19 380,7 434,33 494,29 563,24 606,5 616,8 672,16 716,13 750,16 791,14 810,12 874,16 913,39 957,9 1015,21 1037,3 1045,9 1103 1105,15 1125,11 1187,16 1226,26 1284,42 1355,106 1484,40 1549,44 1611,41 1662,20 1733,62 1829,15 1878,7 1893 1902 1919 1927,23 1978,11 2004,6 2023,8 2032,11 2069,15 2104,21 2176,26 2230,2 2233,40 2291,13 2332,34 2367,23 2419,16 2456,21 2527,38 2616,31 2677,27 2760,52 2832,63 2919,14 2965,51 3050,27 3111,14 3144,20 3198,15 3243,33 3313,45 3398,60 3479,235 3755,2  
 ...
