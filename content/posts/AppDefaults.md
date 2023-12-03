@@ -7,7 +7,7 @@ comments: true
 math: true
 ---
 
-Since [Robb](https://social.lol/@robb) post on Mastodon about this [project](https://defaults.rknight.me), I check out many wonderful people’s defaults and I lies all the apps I use in the various categories as of now(the end of 2023):
+Since [Robb](https://social.lol/@robb) post on Mastodon about this [project](https://defaults.rknight.me), I’ve checked out many wonderful people’s defaults and I listed all the apps I use in the various categories as of now(the end of 2023):
 
 📨 Mail Client
 + [Apple Mail](https://apps.apple.com/us/app/mail/id1108187098)
