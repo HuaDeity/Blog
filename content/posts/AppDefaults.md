@@ -60,7 +60,7 @@ Since [Robb](https://social.lol/@robb) post on Mastodon about this [project](htt
 + [Safari](https://www.apple.com/safari/) Bookmarks
 
 📑 Read It Later
-+ [Reeder 5](https://reeder.app)
++ [Reeder 5](https://reeder.app) with [iCloud](https://www.icloud.com)
 + [Safari](https://www.apple.com/safari/) Reading List
 
 📜 Word Processing
