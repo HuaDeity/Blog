@@ -9,7 +9,7 @@ math: true
 
 到了年底，各种年度总结纷至沓来，工作有**年度总结**，记录生活有**抖音年度记录**，视频平台有**B站年度弹幕**，甚至启动器应用[Raycast](https://www.raycast.com)也有**Raycast Wrapped**来展示Raycast年度使用情况。
 
-而日常生活不可或缺的音乐自然也少不了年度总结，**[Apple Music Replay](https://replay.music.apple.com)**、**[Spotify Wrapped](https://newsroom.spotify.com/2023-11-29/wrapped-user-experience-2023/)**、以及网易云音乐、QQ音乐都在这个时间段推出了各自平台的年度报告，让我们可以轻松的了解到自己的音乐偏好。但是假如我们使用了多个平台，或者有一些喜欢的本地音乐，这些平台的报告是不能覆盖我们所有的听歌情况的，所以我推荐使用**[Last.fm](https://www.last.fm)**来记录(Scrobble)我们的听歌情况，获得更完善的音乐报告。Last.fm的详细介绍我会放到后面，先来介绍下我是怎么选择音乐流媒体服务的。
+而日常生活不可或缺的音乐自然也少不了年度总结，[**Apple Music Replay**](https://replay.music.apple.com)、[**Spotify Wrapped**](https://newsroom.spotify.com/2023-11-29/wrapped-user-experience-2023/)、以及网易云音乐、QQ音乐都在这个时间段推出了各自平台的年度报告，让我们可以轻松的了解到自己的音乐偏好。但是假如我们使用了多个平台，或者有一些喜欢的本地音乐，这些平台的报告是不能覆盖我们所有的听歌情况的，所以我推荐使用[**Last.fm**](https://www.last.fm)来记录(Scrobble)我们的听歌情况，获得更完善的音乐报告。Last.fm的详细介绍我会放到后面，先来介绍下我是怎么选择音乐流媒体服务的。
 
 ![Apple Music Replay](./IMG_0091.jpeg)
 
