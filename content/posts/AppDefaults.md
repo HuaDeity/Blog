@@ -41,8 +41,7 @@ Since [Robb](https://social.lol/@robb) post on Mastodon about this [project](htt
 + [Onedrive](https://onedrive.live.com) for Office Documents 
 
 📖 RSS
-+ 
-~~[Reeder 5](https://reeder.app) with [iCloud](https://www.icloud.com)~~
++ ~~[Reeder 5](https://reeder.app) with [iCloud](https://www.icloud.com)~~
 + [lire](https://www.lireapp.com) with [iCloud](https://www.icloud.com)
 
 🙍🏻‍♂️ Contacts
@@ -62,8 +61,7 @@ Since [Robb](https://social.lol/@robb) post on Mastodon about this [project](htt
 + [Safari](https://www.apple.com/safari/) Bookmarks
 
 📑 Read It Later
-+ 
-~~[Reeder 5](https://reeder.app) with [iCloud](https://www.icloud.com)~~
++ ~~[Reeder 5](https://reeder.app) with [iCloud](https://www.icloud.com)~~
 + [Safari](https://www.apple.com/safari/) Reading List
 + [lire](https://www.lireapp.com) with [iCloud](https://www.icloud.com)
 
