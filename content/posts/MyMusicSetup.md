@@ -11,9 +11,9 @@ math: true
 
 而日常生活不可或缺的音乐自然也少不了年度总结，**[Apple Music Replay](https://replay.music.apple.com)**、**[Spotify Wrapped](https://newsroom.spotify.com/2023-11-29/wrapped-user-experience-2023/)**、以及网易云音乐、QQ音乐都在这个时间段推出了各自平台的年度报告，让我们可以轻松的了解到自己的音乐偏好。但是假如我们使用了多个平台，或者有一些喜欢的本地音乐，这些平台的报告是不能覆盖我们所有的听歌情况的，所以我推荐使用**[Last.fm](https://www.last.fm)**来记录(Scrobble)我们的听歌情况，获得更完善的音乐报告。Last.fm的详细介绍我会放到后面，先来介绍下我是怎么选择音乐流媒体服务的。
 
-![Apple Music Replay](../../static/IMG_0091.jpeg)
+![Apple Music Replay](/IMG_0091.jpeg)
 
-![Last.fm Report](../../static/IMG_0092.jpeg)
+![Last.fm Report](/IMG_0092.jpeg)
 
 ## 服务
 我个人更推荐使用海外的音乐流媒体服务，例如[Apple Music](https://music.apple.com)和[Spotify](https://www.spotify.com)。当然如果喜欢的歌曲多是小众华语，还是选择国内的服务更省心一些。那么海外音乐流媒体服务有哪些优势呢：
@@ -65,7 +65,7 @@ math: true
 ### [Spotify](https://www.spotify.com)
 Spotify的第三方集成做的相当出色，可以[一键连接](https://www.last.fm/settings/applications)，只需要将Last.fm账号与Spotify账号连接即可。
 
-![Spotify with Last.fm](../../static/IMG_0097.jpeg)
+![Spotify with Last.fm](/IMG_0097.jpeg)
 
 ### [Apple Music](https://music.apple.com)
 Apple Music没有这种一键式的设置，需要在播放设备上下载额外的Scrobbler进行记录才行。不同平台可用的Scrobbler还有些不同。
@@ -74,7 +74,7 @@ Apple Music没有这种一键式的设置，需要在播放设备上下载额外
 
 	出色的第三方Apple Music播放器，提供简洁可定制化的UI以及更方便的操作。
 	
-![Marvis Pro](../../static/IMG_0098.jpeg)
+![Marvis Pro](/IMG_0098.jpeg)
 + [Longplay](https://longplay.rocks)
 
 	另一个第三方Apple Music播放器，提供设置连续播放专辑的功能。
@@ -85,7 +85,7 @@ Apple Music没有这种一键式的设置，需要在播放设备上下载额外
 
 	桌面音乐小组件，可以通过悬浮窗的形式显示当前播放音乐的专辑图片，歌曲名，歌手等信息，可自定义UI，并可以在Dock栏显示“正在播放”。支持Apple Music，Spotify，和[Doppler](https://brushedtype.co/doppler/)等平台。
 	
-![Sleeve](../../static/IMG_0096.png)
+![Sleeve](/IMG_0096.png)
 + [NepTunes](https://neptunesmac.app)
 
 	另一个桌面音乐小组件，除了悬浮窗之外还为Spotify提供音乐播放通知。支持Apple Music和Spotify。
@@ -123,9 +123,9 @@ Apple平台提供了出色的桌面小组件个性化设置，在最新的系统
 
 	由独立开发者[David Smith](https://www.david-smith.org/about/)打造的小组件集合App，可以说是功能最强大的小组件集合App了。在最新的版本中加入的音乐集合可交互小组件，将可交互小组件的功能发挥的淋漓尽致，实现了令各大开发者称赞的动效，且该小组件是免费的。
 	
-![WidgetPod(左上) and Widgetsmith(右上)](../../static/IMG_0099.jpeg)
+![WidgetPod(左上) and Widgetsmith(右上)](/IMG_0099.jpeg)
 
-![LivePod or Marvis Pro](../../static/IMG_0100.jpeg)
+![LivePod or Marvis Pro](/IMG_0100.jpeg)
 	
 ## 歌词
 歌词也是音乐中很重要的一部分，国内平台在macOS上提供了菜单栏控制，菜单栏歌词，桌面歌词等国内平台常见的功能，但是海外平台没有这些功能。而且Spotify的歌词体验实在一般。本地音乐以及一些小众音乐也有缺失歌词的问题。有一个可以提供歌词的App显得尤为重要。目前市面上已经有一些提供相应功能的组件：
@@ -164,19 +164,19 @@ Apple平台提供了出色的桌面小组件个性化设置，在最新的系统
 
 	由独立开发者[Marcos Tanaka](https://marcosatanaka.com)打造，帮助您随时了解您最喜欢的艺术家和唱片公司的新音乐发布、音乐视频、活动和新闻。支持从Apple Music，Spotify和Last.fm导入，也可以手动在App中搜索。
 	
-![MusicHarbor](../../static/IMG_0102.jpeg)
+![MusicHarbor](/IMG_0102.jpeg)
 
 + [MusicSmart](https://marcosatanaka.com)
 
 	同样由独立开发者[Marcos Tanaka](https://marcosatanaka.com)打造，搜索音乐专辑、歌曲和艺术家的唱片内页和制作人员名单，可以深入了解你最喜爱音乐的创作过程。支持Apple Music和Spotify。
 	
-![MusicSmart](../../static/IMG_0101.jpeg)
+![MusicSmart](/IMG_0101.jpeg)
 
 + [MusicBox](https://marcosatanaka.com)
 
 	同样由独立开发者[Marcos Tanaka](https://marcosatanaka.com)打造，和文章有“稍后读”一样，音乐也有“稍后听”，可以用于专辑、歌曲、艺术家、播放列表和广播电台。将新音乐保存到稍后听列表中，整理和组织喜爱的音乐，添加标签、注释、元数据等信息。支持Apple Music和Spotify。
 	
-![MusicBox](../../static/IMG_0103.jpeg)
+![MusicBox](/IMG_0103.jpeg)
 	
 + [Background Music](https://github.com/kyleneideck/BackgroundMusic)
 
@@ -192,7 +192,7 @@ Apple平台提供了出色的桌面小组件个性化设置，在最新的系统
 	
 	[Raycast](https://www.raycast.com)通过安装扩展[Music](https://www.raycast.com/fedevitaledev/music)和[Spotify Player](https://www.raycast.com/mattisssa/spotify-player)以及[Spotify Controls](https://www.raycast.com/thomas/spotify-controls)集成Apple Music和Spotify。
 	
-![Alfred Music](../../static/IMG_0104.png)
+![Alfred Music](/IMG_0104.png)
 
 ## 本地音乐
 以上说的都是在线音乐流媒体服务平台，但是本地音乐显然也是日常音乐构成的一部分。而且使用相同的播放器来听歌可以有更统一的使用体验，我们可以将所使用流媒体平台曲库中没有的歌曲通过本地音乐的形式导入到所用的播放器中，来达到这个目的。那么怎么将本地音乐融入到我们的音乐配置中呢？
