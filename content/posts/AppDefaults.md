@@ -41,7 +41,9 @@ Since [Robb](https://social.lol/@robb) post on Mastodon about this [project](htt
 + [Onedrive](https://onedrive.live.com) for Office Documents 
 
 📖 RSS
-+ [Reeder 5](https://reeder.app) with [iCloud](https://www.icloud.com)
++ 
+~~[Reeder 5](https://reeder.app) with [iCloud](https://www.icloud.com)~~
++ [lire](https://www.lireapp.com) with [iCloud](https://www.icloud.com)
 
 🙍🏻‍♂️ Contacts
 + [Apple Contacts](https://apps.apple.com/us/app/contacts/id1069512615) with [iCloud](https://www.icloud.com/contacts) and [vCards](https://github.com/metowolf/vCards)
@@ -60,8 +62,10 @@ Since [Robb](https://social.lol/@robb) post on Mastodon about this [project](htt
 + [Safari](https://www.apple.com/safari/) Bookmarks
 
 📑 Read It Later
-+ [Reeder 5](https://reeder.app) with [iCloud](https://www.icloud.com)
++ 
+~~[Reeder 5](https://reeder.app) with [iCloud](https://www.icloud.com)~~
 + [Safari](https://www.apple.com/safari/) Reading List
++ [lire](https://www.lireapp.com) with [iCloud](https://www.icloud.com)
 
 📜 Word Processing
 + [Visual Studio Code](https://code.visualstudio.com)
@@ -93,6 +97,8 @@ Since [Robb](https://social.lol/@robb) post on Mastodon about this [project](htt
 🎵 Music
 + [Apple Music](https://www.apple.com/apple-music/)
 + [Last.fm](https://www.last.fm) with [Marvis Pro](https://appaddy.wixsite.com/marvis) and [Sleeve](https://replay.software/sleeve)
+
+**You can also check [My Music Setup](https://blog.huadeity.com/posts/music-setup/)**
 
 🎤 Podcasts
 + [Apple Podcasts](https://www.apple.com/apple-podcasts/)
