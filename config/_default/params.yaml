@@ -16,4 +16,5 @@ giscus:
   repoId: R_kgDOKQ8gpg
   category: Announcements
   categoryId: DIC_kwDOKQ8gps4CbGIv
+  mapping: og:title
   theme: preferred_color_scheme
