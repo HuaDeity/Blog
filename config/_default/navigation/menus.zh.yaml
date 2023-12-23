@@ -1,0 +1,7 @@
+main:
+- name: 文章
+  pageRef: /posts
+  weight: 10
+- name: 朋友
+  pageRef: /friends
+  weight: 20

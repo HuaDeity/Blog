@@ -1,0 +1,5 @@
+baseURL: https://blog.huadeity.com/
+paginate: 5
+theme: paper
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
