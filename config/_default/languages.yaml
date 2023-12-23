@@ -9,6 +9,8 @@ en:
     subtitle: 'A blog about programming, life and everything.'
     name: HuaDeity
     flag: 🇺🇸
+    giscus:
+      lang: en
   weight: 1
 zh:
   contentDir: content/zh
@@ -21,4 +23,6 @@ zh:
     subtitle: '一个关于编程、生活和一切的博客。'
     name: 华奕神尊
     flag: 🇨🇳
+    giscus:
+      lang: zh-CN
   weight: 2
