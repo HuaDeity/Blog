@@ -1,0 +1,24 @@
+en:
+  contentDir: content/en
+  disabled: false
+  languageCode: en-US
+  languageDirection: ltr
+  languageName: English
+  title: HuaDeity's Blog
+  params:
+    subtitle: 'A blog about programming, life and everything.'
+    name: HuaDeity
+    flag: 🇺🇸
+  weight: 1
+zh:
+  contentDir: content/zh
+  disabled: false
+  languageCode: zh-CN
+  languageDirection: ltr
+  languageName: 简体中文
+  title: 华奕神尊的博客
+  params:
+    subtitle: '一个关于编程、生活和一切的博客。'
+    name: 华奕神尊
+    flag: 🇨🇳
+  weight: 2

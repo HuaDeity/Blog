@@ -1,0 +1,19 @@
+author: 
+  email: hello@huadeity.com
+  name: HuaDeity
+github: HuaDeity
+mastodon: https://mastodon.social/@HuaDeity
+rss: true
+avatar: hello@huadeity.com
+bio: 🌈
+disableHLJS: true
+disablePostNavigation: false
+monoDarkIcon: true
+gravatarCdn: https://gravatar.webp.se/avatar/
+math: true
+giscus:
+  repo: HuaDeity/blog
+  repoId: R_kgDOKQ8gpg
+  category: Announcements
+  categoryId: DIC_kwDOKQ8gps4CbGIv
+  theme: preferred_color_scheme

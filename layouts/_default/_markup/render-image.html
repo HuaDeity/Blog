@@ -1,4 +1,4 @@
-<figure class="md__image">
+<figure class="inline-block">
     <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}" {{ end }} />
-    <figcaption><h4>{{ .Text }}</h4></figcaption>
+    <figcaption class="text-center"><h4>{{ .Text }}</h4></figcaption>
 </figure>
