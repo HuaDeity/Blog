@@ -113,7 +113,7 @@ nvim /etc/fail2ban/jail.local
 
 写入，该服务会监视 ssh 端口，出现问题则发邮件到 destemail：
 
-```editorconfig
+```shell
 [DEFAULT]
 destemail = your@email.here
 sendername = Fail2Ban
