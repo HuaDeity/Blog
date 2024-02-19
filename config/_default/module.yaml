@@ -6,3 +6,5 @@ mounts:
     target: assets
   - source: hugo_stats\.json
     target: assets/watching/hugo_stats\.json
+imports:
+  - path: github.com/HuaDeity/hugo-multipaper
