@@ -1,2 +1,11 @@
 highlight:
   noClasses: false
+goldmark:
+  extensions:
+    cjk:
+      eastAsianLineBreaks: true
+      eastAsianLineBreaksStyle: simple
+      enable: true
+      escapedSpace: true
+  parser:
+    wrapStandAloneImageWithinParagraph: false

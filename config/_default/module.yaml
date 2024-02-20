@@ -1,6 +1,6 @@
 hugoVersion:
   extended: false
-  min: "0.115.1"
+  min: "0.123.0"
 mounts:
   - source: assets
     target: assets
