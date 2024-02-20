@@ -8,3 +8,4 @@ mounts:
     target: assets/watching/hugo_stats\.json
 imports:
   - path: github.com/HuaDeity/hugo-multipaper
+workspace: "hugo.work"

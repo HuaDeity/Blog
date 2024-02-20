@@ -30,7 +30,7 @@ Twitter 现在知名的小蓝鸟的图标正是 Apple 生态知名开发商[icon
 
 ## Mastodon 介绍
 
-Mastodon 是一个开源项目，是一个微博网络，该网络是[Fediverse](<[https://www.fediverse.to](https://fediverse.party/en/fediverse/)>)的一部分。  
+Mastodon 是一个开源项目，是一个微博网络，该网络是[Fediverse](https://fediverse.party/en/fediverse/)的一部分。  
 Fediverse 就是联邦宇宙，是一套开源协议，管理服务器上的用户活动，以及用户在其他独立操作的服务器上的信息交换，使用最广泛的协议是[ActivityPub](https://www.w3.org/TR/activitypub/)。  
 Fediverse 就是一个去中心化的网络。Twitter 是集中式的，服务器、数据、协议都是由 Twitter 公司所掌控，所以马斯克的收购才能对 Twitter 产生这么大的影响。  
 而 Fediverse，以 Twitter 的替代品 Mastodon 为例，使用 Mastodon，并不是在使用一家巨大的、不露面的公司产品，或者是和一个经常做出无法理解的决定的 CEO 打交道。而是由您自行选择加入由个人、公司或足者运行的 Mastodon 服务器（即实例）。每个实例都与其他实例交换信息或组合。实例根据用户订阅其他用户帖子的社交图谱在每个服务器之间传递内容。没有中央数据库，Mastodon 完全由一个个实例组成。个人信息也可以在实例之间迁移。  
