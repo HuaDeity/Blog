@@ -11,6 +11,7 @@ en:
     author:
       email: hello@huadeity.com
       name: HuaDeity
+      bio: 🌈
     flag: 🇺🇸
     giscus:
       lang: en
@@ -28,6 +29,7 @@ zh:
     author:
       email: hello@huadeity.com
       name: 华奕神尊
+      bio: 🌈
     flag: 🇨🇳
     giscus:
       lang: zh-CN

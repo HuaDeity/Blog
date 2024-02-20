@@ -1,5 +1,4 @@
 baseURL: https://blog.huadeity.com/
 copyright: © 2023-2024, HuaDeity; all rights reserved.
 paginate: 5
-theme: github.com/HuaDeity/hugo-multipaper
 defaultContentLanguage: en
