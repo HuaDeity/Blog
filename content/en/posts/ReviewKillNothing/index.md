@@ -1,7 +1,7 @@
 ---
 slug: review-kill-nothing
 title: 'Review Kill Nothing'
-date: 2024-4-25T13:15:00+08:00
+date: 2024-04-25T13:15:00+08:00
 draft: false
 comments: true
 math: true
